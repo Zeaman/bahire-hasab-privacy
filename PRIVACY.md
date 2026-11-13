@@ -1,6 +1,6 @@
 # Privacy Policy — Bahire-Hasab
 
-**Bahire-Hasab by YomTech, 2018/2026**  
+**Bahire-Hasab by YomTech Solutions, 2018/2026**  
 Version 1.2.0 · Effective date: 2026-08-09
 
 ## Summary
@@ -45,7 +45,7 @@ The app is suitable for general audiences. It does not target children under 13 
 
 ## Contact
 
-- Email: zeaman48@gmail.com  
+- Email: yomtech44@gmail.com  
 - Phone: +251918724038
 
 ## Changes
